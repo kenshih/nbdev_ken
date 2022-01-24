@@ -1,1 +1,3 @@
 _site/
+# instead install environment.yml
+envs/

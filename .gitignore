@@ -1,3 +1,7 @@
+# envs
+envs/
+
+## orig
 .jekyll-cache/
 Gemfile.lock  
 *.bak
